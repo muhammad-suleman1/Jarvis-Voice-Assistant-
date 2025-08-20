@@ -1,5 +1,6 @@
 contacts = {
-    "Big Bruh": "+93168947879",
-    "mama": "+923088534979",
-    "papa": "+923007828250",
+    
+    "mama": "+Contact Number",
+    "papa": "Contact Number",
+
 }
